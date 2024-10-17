@@ -3,7 +3,7 @@ import numpy as np
 import os
 
 def generate_synthetic_data():
-    """Generate synthetic heart disease dataset"""
+    """Generate synthetic heart disease dataset with enhanced features"""
     np.random.seed(42)
     n_samples = 333
     
