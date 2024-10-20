@@ -5,6 +5,7 @@ import os
 import joblib
 from utils.preprocessing import preprocess_data
 
+# Flask web application for heart disease prediction
 app = Flask(__name__)
 app.config.from_pyfile('config.py')
 
