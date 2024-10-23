@@ -1,4 +1,4 @@
-// Basic form validation and interactivity
+// Enhanced form validation and interactive features
 document.addEventListener('DOMContentLoaded', function() {
     // Form validation
     const forms = document.querySelectorAll('form');
