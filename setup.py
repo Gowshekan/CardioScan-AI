@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """
-Setup script for Heart Disease Prediction Project
+Automated setup script for Heart Disease Prediction Project
+Enhanced with better error handling and logging
 """
 import os
 import subprocess
