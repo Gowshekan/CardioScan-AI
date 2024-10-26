@@ -37,8 +37,10 @@ Heart Disease Prediction/
 
 1. Clone the repository
 2. Install dependencies: `pip install -r requirements.txt`
-3. Run the application: `python app.py`
-4. Open http://127.0.0.1:5000 in your browser
+3. Generate data (if needed): `python generate_synthetic_data.py`
+4. Train model (if needed): `python models/train_model.py`
+5. Run the application: `python app.py`
+6. Open http://127.0.0.1:5000 in your browser
 
 ## Model Performance
 
