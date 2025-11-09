@@ -135,5 +135,5 @@ Open your browser and go to:
 ## 👨‍💻 Author
 
 **Gowshekan**
-📧 *[gowshekan@example.com](mailto:gowshekangowshekan@gmail.com)*
+📧 *[gowshekangowshekan@gmail.com](mailto:gowshekangowshekan@gmail.com)*
 💼 [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/gowshekan-a-v-r-2092a0325/)) 
