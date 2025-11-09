@@ -1,0 +1,90 @@
+venv/
+*.pkl
+*.joblib
+__pycache__/
+*.pyc
+.DS_Store
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pkl
+*.joblib
+*.h5
+*.sqlite3
+
+# Virtual environment
+venv/
+ENV/
+env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.bak
+
+# Deployment files
+*.db
+instance/
+*.env
+
+# Static build artifacts
+build/
+dist/
+*.egg-info/
+
+# Heroku
+*.sqlite3
+*.db
+*.log
+*.pid
+*.swp
+*.swo
+*.coverage
+*.cover
+*.py,cover
+*.tar.gz
+*.zip
+
+# Ignore compressed archives
+*.rar
+*.7z
+*.gz
+*.tar
+*.zip
+
+# Ignore generated files
+*.csv
+*.xlsx
+*.xls
+*.json
+
+# Ignore system files
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# Ignore test outputs
+htmlcov/
+coverage.xml
+nosetests.xml
+test-results/
+
+# Ignore IDE folders
+.idea/
+*.iml
+*.sublime-project
+*.sublime-workspace
